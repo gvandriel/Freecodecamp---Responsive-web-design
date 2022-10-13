@@ -6,4 +6,4 @@ This is a progress overview of my HTML and CSS learning. I am doing the interact
 
 ### Learn HTML by Building a Cat Photo App:
 
-1 to 31
+Finished excercises: 1 to 31
