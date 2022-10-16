@@ -10,12 +10,13 @@ Finished excercises: 1 to 31
 
 ## Oct 14, 2022
 
-Finished execercises: 32 to 45
+Finished excercises: 32 to 45
 
 ## Oct 15, 2022
 
-Finished execercises: 46 to 61
+Finished excercises: 46 to 61
 
 ## Oct 16, 2022
 
-Finished execercises: 62 to 75
+Finished excercises: 62 to 75
+Finished excercises: 76 to 84
