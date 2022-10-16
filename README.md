@@ -15,3 +15,7 @@ Finished execercises: 32 to 45
 ## Oct 15, 2022
 
 Finished execercises: 46 to 61
+
+## Oct 16, 2022
+
+Finished execercises: 62 to 75
