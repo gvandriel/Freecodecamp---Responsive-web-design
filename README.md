@@ -14,9 +14,16 @@ Finished excercises: 32 to 45
 
 ## Oct 15, 2022
 
-Finished excercises: 46 to 61
+Finished excercises: 46 to 69
 
 ## Oct 16, 2022
 
-Finished excercises: 62 to 75
-Finished excercises: 76 to 84
+### Learn Basic CSS by Building a Cafe Menu
+
+Finished excercises: 1 to 24
+
+## Oct 17, 2022
+
+### Learn HTML by Building a Registration Form
+
+Finished excercises: 1 to 6
