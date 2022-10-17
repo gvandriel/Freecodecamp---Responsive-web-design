@@ -27,3 +27,4 @@ Finished excercises: 1 to 24
 ### Learn HTML by Building a Registration Form
 
 Finished excercises: 1 to 6
+Finished excercises: 7 to 18
